@@ -8,5 +8,7 @@ Nano-GPT is the most meaningful implementation, heavily inspired by
   Andrej Karpathy's work. In my version, I tried to give my own spin (to fit my 
   hardware/budget), but you can also see my notes and code changes as I attempted 
   to poke at everything to understand the intricacies of the model.
+( directory: 10_nano_gpt\current\3_nano_gpt.py )
+
 
 original repo: https://github.com/paulotcj/machine_learning/tree/main/models
