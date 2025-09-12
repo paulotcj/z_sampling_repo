@@ -8,4 +8,3 @@ Nano-GPT is the most meaningful implementation, heavily inspired by Andrej Karpa
 
 Directory: [10_nano_gpt/current/3_nano_gpt.py](https://github.com/paulotcj/z_sampling_repo/blob/main/machine_learning_models/10_nano_gpt/current/3_nano_gpt.py)
 
-Original repo: [https://github.com/paulotcj/machine_learning/tree/main/models](https://github.com/paulotcj/machine_learning/tree/main/models)
