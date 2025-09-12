@@ -10,9 +10,9 @@ I never expected to showcase these solutions to anyone, so the code can be taken
 
 If you want to check something, I would recommend:
 
-- `042_Arrays_trapping_rain_water/4_trapping_rain_water.py`
+- [042_Arrays_trapping_rain_water/4_trapping_rain_water.py](https://github.com/paulotcj/z_sampling_repo/blob/main/leetcode/042_Arrays_trapping_rain_water/4_trapping_rain_water.py)
 
 And perhaps something more recent, where I started to use type hinting more consistently:
 
-- `200_2D_Arrays_Number_of_Islands/1_Number_of_Islands_DFS`
+- [200_2D_Arrays_Number_of_Islands/1_Number_of_Islands_DFS.py](https://github.com/paulotcj/z_sampling_repo/blob/main/leetcode/200_2D_Arrays_Number_of_Islands/1_Number_of_Islands_DFS.py)
 
